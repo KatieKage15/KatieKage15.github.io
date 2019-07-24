@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Gym Time with JavaScript "
-date:       2019-07-24 20:22:31 +0000
+date:       2019-07-24 16:22:31 -0400
 permalink:  gym_time_with_javascript
 ---
 
